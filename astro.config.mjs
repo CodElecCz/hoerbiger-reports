@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://codeleccz.github.io',
+  site: 'https://codelec.cz',
   base: '/hoerbiger-reports',
   vite: {
     plugins: [tailwindcss()],

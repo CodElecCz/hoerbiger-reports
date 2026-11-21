@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codelec.cz/sitemap-index.xml
